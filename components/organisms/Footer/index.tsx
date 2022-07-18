@@ -10,13 +10,13 @@ export default function Footer() {
           <h4>&copy; By Dewi & Adi</h4>
         </div>
         <a href="/#" className="footer__logo">
-          Powered by Trias Zaen Mutaqin
+          Powered by Adi Yulianto
         </a>
         <div className="footer__socials">
-          <a href="https://www.instagram.com/tzm_12/">
+          <a href="https://www.instagram.com/ady.to/">
             <FiInstagram />
           </a>
-          <a href="https://www.facebook.com/iaz.zaen/">
+          <a href="https://www.facebook.com/BRANDITS/">
             <FaFacebookF />
           </a>
         </div>
